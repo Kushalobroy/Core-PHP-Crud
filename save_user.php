@@ -37,5 +37,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     echo "success";
     header("Location: add.php");
 }
-?>
-
